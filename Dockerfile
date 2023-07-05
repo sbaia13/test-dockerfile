@@ -1,1 +1,1 @@
-FROM bitnami/keycloak:latest
+FROM docker.io/bitnami/keycloak:latest
